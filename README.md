@@ -149,7 +149,7 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-<a href="https://github.com/mansee-11/mansee-11/raw/main/assets/Resume.pdf">
+<a href="https://github.com/mansee-11/mansee-11/blob/main/assets/Resume.pdf">
 <img src="https://img.shields.io/badge/Download%20Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
