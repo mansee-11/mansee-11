@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer;Aspiring+Software+Engineer;MERN+Stack+Enthusiast;Strengthening+DSA+Skills;Building+Modern+Web+Applications;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Frontend+Developer;Aspiring+Software+Engineer;MERN+Stack+Enthusiast;Strengthening+DSA+Skills;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,10 +20,6 @@
 
 🎯 Focused on building responsive, interactive, and user-friendly web applications.
 
-🏆 **Elite + Gold — NPTEL Programming in Java**  
-📌 Top 1% Performer  
-💯 Scored 100/100
-
 🌱 Currently learning:
 - React.js
 - Backend Development
@@ -33,9 +29,7 @@
 
 💼 Open to internship opportunities and collaborative projects.
 
----
-
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mansee-asati1123/" target="_blank">
@@ -46,8 +40,8 @@
 <img src="https://img.shields.io/badge/Gmail-E100FF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Mansee_Asati_11/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-7F00FF?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/mansee-11/mansee-11/raw/main/assets/Resume.pdf">
+<img src="https://img.shields.io/badge/Download%20Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <a href="https://gregarious-liger-f77621.netlify.app/" target="_blank">
@@ -55,6 +49,15 @@
 </a>
 
 </p>
+
+---
+# 🏆 Achievements
+
+🥇 Elite + Gold — NPTEL Programming in Java
+
+📌 Top 1% Performer Nationwide
+
+💯 Perfect Score: 100/100
 
 ---
 
@@ -66,15 +69,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
----
-
 ## 💻 Languages & DSA
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 </p>
-
----
 
 ## 🛠️ Tools & Platforms
 
@@ -85,38 +84,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Canva-7F00FF?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Portfolio Website
-🔗 https://gregarious-liger-f77621.netlify.app/
-
-✨ Personal portfolio showcasing projects, skills, and achievements with a modern responsive UI.
-
-### Tech Stack
-HTML • Tailwind CSS • JavaScript
-
----
-
-## 👦 KidLearn Dashboard
-🔗 https://beamish-blini-c13e10.netlify.app/
-
-✨ Interactive kids learning dashboard focused on engaging UI/UX and structured layouts.
-
-### Tech Stack
-HTML • CSS
-
----
-
-## 📦 Overstock & Understock Management Prototype
-🔗 https://adorable-capybara-d5f2ae.netlify.app/
-
-✨ Developed during Microsoft Imagine Cup participation as Team Lead to address inventory management challenges.
-
-### Tech Stack
-HTML • CSS • JavaScript
 
 ---
 
@@ -143,20 +110,6 @@ HTML • CSS • JavaScript
 </div>
 
 ---
-
-# 📌 Resume
-
-<div align="center">
-
-<a href="https://github.com/mansee-11/mansee-11/blob/main/assets/Resume.pdf">
-<img src="https://img.shields.io/badge/Download%20Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ✨ Developer Quote
 
 <div align="center">
 
