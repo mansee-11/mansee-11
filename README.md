@@ -14,11 +14,7 @@
 
 # 💫 About Me
 
-💻 Passionate frontend developer exploring full-stack MERN development while strengthening DSA and problem-solving skills through real-world projects.
-
-🚀 Currently learning advanced web development and backend integration.
-
-🎯 Focused on building responsive, interactive, and user-friendly web applications.
+#### 💻 Frontend Developer and Aspiring Software Engineer passionate about building modern web applications, exploring full-stack MERN development, and strengthening problem-solving skills through Data Structures & Algorithms. 
 
 ## 🌱 Currently learning:
 - React.js
@@ -27,9 +23,10 @@
 - Advanced JavaScript
 - Data Structures & Algorithms
 
-💼 Open to internship opportunities and collaborative projects.
+#### 💼 Open to internship opportunities and collaborative projects.
 
 ## 🌐 Connect With Me
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mansee-asati1123/" target="_blank">
@@ -63,21 +60,21 @@
 
 # ⚡ Tech Stack
 
-## 🚀 Frontend Development
+### 🚀 Frontend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
 ---
 
-## 💻 Languages & DSA
+### 💻 Languages & DSA
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql,vercel,netlify,figma"/>
 </p>
@@ -98,7 +95,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Snake
 
 <div align="center">
 
