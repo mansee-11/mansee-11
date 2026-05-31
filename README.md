@@ -20,7 +20,7 @@
 
 🎯 Focused on building responsive, interactive, and user-friendly web applications.
 
-##🌱 Currently learning:
+## 🌱 Currently learning:
 - React.js
 - Backend Development
 - MERN Stack
@@ -29,7 +29,7 @@
 
 💼 Open to internship opportunities and collaborative projects.
 
-##🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mansee-asati1123/" target="_blank">
@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/mansee-11/mansee-11/raw/main/assets/Resume.pdf">
-<img src="https://img.shields.io/badge/Download%20Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Resume-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <a href="https://gregarious-liger-f77621.netlify.app/" target="_blank">
@@ -64,7 +64,6 @@
 # ⚡ Tech Stack
 
 ## 🚀 Frontend Development
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
@@ -72,7 +71,6 @@
 ---
 
 ## 💻 Languages & DSA
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 </p>
@@ -80,7 +78,6 @@
 ---
 
 ## 🛠️ Tools & Platforms
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql,vercel,netlify,figma"/>
 </p>
