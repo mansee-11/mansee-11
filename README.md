@@ -20,7 +20,7 @@
 
 🎯 Focused on building responsive, interactive, and user-friendly web applications.
 
-🌱 Currently learning:
+##🌱 Currently learning:
 - React.js
 - Backend Development
 - MERN Stack
@@ -29,7 +29,7 @@
 
 💼 Open to internship opportunities and collaborative projects.
 
-🌐 Connect With Me
+##🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mansee-asati1123/" target="_blank">
@@ -69,20 +69,20 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
 </p>
 
+---
+
 ## 💻 Languages & DSA
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python"/>
 </p>
 
+---
+
 ## 🛠️ Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql,vercel,netlify,figma"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Canva-7F00FF?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
 ---
