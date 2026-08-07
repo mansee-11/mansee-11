@@ -1,8 +1,6 @@
 <div align="center">
-
-# Hi, I'm Mansee Asati 👋
-
-### Frontend Developer • Aspiring Software Engineer • MERN Learner
+  
+## Frontend Developer • Aspiring Software Engineer • MERN Learner
 
 <br>
 
@@ -36,9 +34,7 @@ Currently I'm focused on learning **Full Stack MERN Development**, strengthening
 
 💯 Perfect Score **100 / 100**
 
----
-
-# 🌐 Connect
+### 🌐 Connect with me
 
 <p align="center">
 
