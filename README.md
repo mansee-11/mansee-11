@@ -1,6 +1,6 @@
 <div align="center">
   
-# Frontend Developer • Aspiring Software Engineer • MERN Learner
+# Frontend Developer • Software Engineer • DSA Enthusiast
 
 <br>
 
