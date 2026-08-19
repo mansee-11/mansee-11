@@ -54,7 +54,7 @@ Currently I'm focused on learning **Full Stack MERN Development**, strengthening
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
 
-<a href="https://github.com/mansee-11/mansee-11/raw/main/assets/Resume.pdf">
+<a href="https://github.com/mansee-11/mansee-11/raw/main/assets/My Resume.pdf">
 <img src="https://img.icons8.com/fluency/96/resume.png" width="45"/>
 </a>
 
