@@ -94,9 +94,10 @@ Currently I'm focused on learning **Full Stack MERN Development**, strengthening
 
 | Project | Description |
 |----------|-------------|
-| 📦 **Overstock & Understock Management** | Microsoft Imagine Cup project developed as Team Lead for inventory management. |
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects, skills and achievements. |
-| 📚 **Learning Projects** | Weather App, Movie Search App and other projects built while learning APIs, JavaScript and frontend development. |
+| 🧠 **Sootradhar — Unified Asset & Operations Brain** | Industrial Knowledge Intelligence platform developed for the ET AI Hackathon, focused on connecting operational knowledge and information through an intelligent retrieval system. |
+| 📦 **OptiStock — Overstock & Understock Management** | Microsoft Imagine Cup project developed as Team Lead to address inventory management challenges related to overstock and understock situations. |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my projects, technical skills, achievements and continuous learning journey. |
+| 🛒 **E-Commerce Website** | React-based e-commerce application featuring product browsing, filtering, sorting, product details and cart management. |
 
 ---
 
